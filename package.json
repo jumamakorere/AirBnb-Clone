@@ -1,6 +1,8 @@
 {
   "name": "airbnb_v2",
   "main": "expo-router/entry",
+  "privacy": "public",
+  "description": "Airbnb Clone with React Native (Expo Router, Authentication, Reanimated, Clerk)",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
